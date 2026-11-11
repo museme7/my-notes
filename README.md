@@ -9,3 +9,4 @@ Daily log — small steps every day.
 ## Logs
 
 - [2026-11-11](logs/2026-11-11.md)
+- [Shizuku Android 17 修复笔记](notes/shizuku-android17.md)
