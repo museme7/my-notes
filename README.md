@@ -1,1 +1,11 @@
-# 7
+# my-notes
+
+Daily log — small steps every day.
+
+- English listening & speaking practice
+- Crypto research (Bitcoin security budget, DMT-NAT)
+- Problem-solving notes
+
+## Logs
+
+- [2026-11-11](logs/2026-11-11.md)
